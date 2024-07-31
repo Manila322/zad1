@@ -1,0 +1,16 @@
+.app {
+	text-align: center;
+}
+
+.screen {
+	color: red;
+}
+
+.error-input {
+	border: 2px solid red;
+}
+
+.errorLabel {
+	color: red;
+	margin-top: 10px;
+}
